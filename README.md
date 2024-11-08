@@ -31,6 +31,14 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 
+<img
+  align="left" 
+  alt="MySQL" 
+  title="MySQL" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
 <img 
   align="left" 
   alt="HTML" 
@@ -47,22 +55,14 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img
+<img   
   align="left" 
-  alt="MySQL" 
-  title="MySQL" 
+  alt="CSS" 
+  title="CSS" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  
-<img
-  align="left" 
-  alt="Linux" 
-  title="Linux" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-                
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+
 <img 
   align="left" 
   alt="Bootstrap" 
@@ -70,6 +70,14 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+<img
+  align="left" 
+  alt="Linux" 
+  title="Linux" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />               
 
 <img 
   align="left" 
