@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Luana Freitas
 `Desenvolvedora Full Stack`
 
-Atuo profissionalmente como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e MySQL. Possuo experiência profissional em desenvolvimento de sistemas para fintech e e-commerce. Estudo tecnologia desde 2015, quando comecei o curso Técnico em Informática pelo IFSULDEMINAS. Posteriormente, me graduei em Ciência da Computação pela Universidade Federal de Itajubá.
+Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e MySQL. Possuo experiência profissional em desenvolvimento de sistemas para fintech e e-commerce. Estudo tecnologia desde 2015, quando comecei o curso Técnico em Informática pelo IFSULDEMINAS. Posteriormente, me graduei em Ciência da Computação pela Universidade Federal de Itajubá.
 
 ##
 
