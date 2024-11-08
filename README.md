@@ -109,4 +109,6 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
 ##
 
 ### 📊 Estatísticas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luanacassiaf&layout=donut&custom_title=Principais+Linguagens+no+GitHub&theme=aura)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanacassiaf&layout=donut&custom_title=Principais+Linguagens+no+GitHub&theme=aura"/>
+</div>
