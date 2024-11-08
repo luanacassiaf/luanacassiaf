@@ -57,8 +57,8 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
 
 <img   
   align="left" 
-  alt="CSS" 
-  title="CSS" 
+  alt="jQuery" 
+  title="jQuery" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
