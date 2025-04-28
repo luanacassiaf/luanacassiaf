@@ -13,7 +13,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="PHP" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img 
   align="left" 
@@ -21,7 +21,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="JavaScript" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   
  <img   
   align="left" 
@@ -29,7 +29,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="Vue.js" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 
 <img
   align="left" 
@@ -37,7 +37,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="MySQL" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <img 
   align="left" 
@@ -45,7 +45,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="HTML" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   
 <img 
   align="left" 
@@ -53,7 +53,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="CSS" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <img   
   align="left" 
@@ -61,7 +61,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="jQuery" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 
 <img 
   align="left" 
@@ -69,7 +69,16 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="Bootstrap" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+<img 
+  align="left" 
+  alt="Golang" 
+  title="Golang" 
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+          
 
 <img
   align="left" 
@@ -77,7 +86,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="Linux" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />               
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />               
 
 <img 
   align="left" 
@@ -85,7 +94,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="Node.js" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 <img
   align="left" 
@@ -93,7 +102,7 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="MongoDB" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
           
 <img 
   align="left" 
@@ -101,10 +110,9 @@ Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e My
   title="Python" 
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<br>
-<br>
+<br><br><br>
 
 ##
 
