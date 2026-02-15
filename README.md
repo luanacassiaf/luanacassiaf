@@ -1,20 +1,38 @@
 ## 👩🏻‍💻 Luana Freitas
 `Desenvolvedora Full Stack`
 
-Atuo como desenvolvedora desde 2022, tendo como stack principal PHP, Vue.js e MySQL. Possuo experiência profissional em desenvolvimento de sistemas para fintech e e-commerce. Estudo tecnologia desde 2015, quando comecei o curso Técnico em Informática pelo IFSULDEMINAS. Posteriormente, me graduei em Ciência da Computação pela Universidade Federal de Itajubá.
+Atuo como desenvolvedora desde 2022, com domínio prático em PHP e MySQL, além da criação de interfaces com Vue.js. Possuo experiência no desenvolvimento de sistemas em contextos de fintech e e-commerce. Estudo tecnologia desde 2015, quando iniciei o curso Técnico em Informática pelo IFSULDEMINAS, e posteriormente me graduei em Ciência da Computação pela Universidade Federal de Itajubá.
 
 ##
 
 ### 🤖 Tecnologias
 
+#### Stack principal
 <img 
   align="left" 
   alt="PHP" 
   title="PHP" 
   width="30px" 
   style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />          
 
+<img 
+  align="left" 
+  alt="Golang" 
+  title="Golang" 
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+
+<img
+  align="left" 
+  alt="MySQL" 
+  title="MySQL" 
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+          
 <img 
   align="left" 
   alt="JavaScript" 
@@ -31,21 +49,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
   style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 
-<img
-  align="left" 
-  alt="MySQL" 
-  title="MySQL" 
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
 <img 
   align="left" 
   alt="HTML" 
   title="HTML" 
   width="30px" 
   style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   
 <img 
   align="left" 
@@ -53,40 +63,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
   title="CSS" 
   width="30px" 
   style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 
-<img   
-  align="left" 
-  alt="jQuery" 
-  title="jQuery" 
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+<br>
 
-<img 
-  align="left" 
-  alt="Bootstrap" 
-  title="Bootstrap" 
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-
-<img 
-  align="left" 
-  alt="Golang" 
-  title="Golang" 
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-          
-
-<img
-  align="left" 
-  alt="Linux" 
-  title="Linux" 
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />               
+#### Conhecimentos adicionais       
 
 <img 
   align="left" 
@@ -112,11 +93,30 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
   style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<br><br><br>
+<br>
 
-##
+#### Ambiente
+<img
+  align="left" 
+  alt="Ubuntu" 
+  title="Ubuntu" 
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
-### 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanacassiaf&layout=donut&custom_title=Principais+Linguagens+no+GitHub&theme=aura"/>
-</div>
+<img
+  align="left" 
+  alt="Git" 
+  title="Git" 
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img
+  align="left" 
+  alt="Docker" 
+  title="Docker" 
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
